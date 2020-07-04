@@ -1,0 +1,2 @@
+# Futoshiki-Solver
+Futoshiki-Solver
