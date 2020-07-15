@@ -2,7 +2,7 @@
 Futoshiki-Solver
 
 
-Program to solve futoshiki puzzles. 
+A futoshiki solver programmed in python.
 
 Implemented using a backtracking algorithm. The heuristics used for the algorithm are the most constrained variable, followed by most constraining variable.
 
